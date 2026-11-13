@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm David Aguilar 👋
 
-<!--
-**david-aguilar-dev/david-aguilar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student at **UTEC** and Technical Support Specialist with strong foundations in object-oriented programming, backend development, and database architecture.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Stack & Skills
+- **Languages:** C#, PHP, SQL, T-SQL
+- **Frameworks & Platforms:** .NET, WinForms, ASP.NET Core, HTML5/CSS3
+- **Architectures & Design:** Model-View-Controller (MVC), N-Tier Architecture, OOP, UML (StarUML)
+- **Databases:** Microsoft SQL Server, MySQL, Data Normalization (1NF–3NF), Stored Procedures
+
+---
+
+### 📌 Highlighted Projects
+- 🚗 **[Vehicle Rental Management System](./vehicle-rental-system)** — C# WinForms application with OOP business logic.
+- 🎵 **[Music Playlist Manager (MVC)](./playlist-manager-mvc)** — Architecture-driven C# app built on the MVC pattern.
+- 📐 **[SIGABEC Architecture Analysis](./sigabec-system-analysis)** — Formal UML specifications, Use Cases, and Activity models.
+- 🔐 **[User Authentication System](./user-authentication-php)** — Web CRUD platform using PHP, MySQL, and session state control.
+
+---
+
+### 📫 Connect with Me
+- **LinkedIn:** [linkedin.com/in/david-aguilar-3680a7249](https://www.linkedin.com/in/david-aguilar-3680a7249/)
+- **Email:** daguilarascencio@icloud.com
